@@ -4,7 +4,7 @@ A deep learning project that classifies images as **Cat or Dog** using a
 Convolutional Neural Network (CNN) and deploys predictions via Streamlit.
 
 ## Streamlit App Preview
-![Streamlit App Screenshot](screenshots/streamlit_app.png)
+![Streamlit App Screenshot](screenshot/streamlit_app.png)
 
 
 ## 🚀 Tech Stack
